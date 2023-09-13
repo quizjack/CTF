@@ -9,16 +9,12 @@
 
 > Challenge: Help this technician to uncover the message received.
 
-```
-
-
-```
-
 ## Solution
 * Use a sound analyser to read the sound.
 * See the spectogram to find your flag.
 
 ### FLAG
+
 ```
 CTFUA{S0UND5_G00D}
 ```
