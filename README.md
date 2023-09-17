@@ -17,7 +17,7 @@ This is just a simple OSINT we several steps.
 
 For the first question, if reverse search don't work, registry number can be used. In this case "N106US".
 
-[![N106US](https://github.com/gcsuaveiro/citeforma-ctf/blob/master/osint/aircraft/solve/1-%20Famous.jpg)]
+![N106US](https://github.com/gcsuaveiro/citeforma-ctf/blob/master/osint/aircraft/solve/1-%20Famous.jpg)
 
 From there we can see that was the aircraft that ditched the Hudson river. And that is our first answer, "H".
 
